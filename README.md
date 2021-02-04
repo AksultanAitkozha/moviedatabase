@@ -1,2 +1,3 @@
 # moviedatabase
-KTS Winter School - FrontEnd
+KTS Winter School 2021 - FrontEnd
+mentor: Sergey Chernobrovkin
